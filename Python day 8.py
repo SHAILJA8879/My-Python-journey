@@ -6,10 +6,18 @@ print(int(a)+int(b))
 #EXPLICIT TYPECASTING
 #WHERE PROGRAMMER TYPECAST BY THERE OWN
 
-#IMPLICIT TYPECASTIN
+#IMPLICIT TYPECASTING
 #WHERE THE PROGRAM TYPECAST BY THERE OWN
 
 c=1.9
-d=8
+d=10
 
 print(c+d)
+
+p=789654
+q=789632541
+print(p+q)
+print(p-q)
+print(p*q)
+print(p/q)
+print(p//q)
