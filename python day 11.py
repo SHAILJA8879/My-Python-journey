@@ -5,7 +5,7 @@ friend='Bella'
 anotherFriend ='Kokonana'
 apple='''He want to eat apple'
 Hi I am your good trainer 
-Have fun with your learning journey'''
+Had fun with your learning journey'''
 
 print('Hello Good Morning ' + name +  'and'  + anotherFriend)
 print(apple)
